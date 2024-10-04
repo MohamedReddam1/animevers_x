@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/animevers_x/static/css/main.227a8ef3.css",
-    "main.js": "/animevers_x/static/js/main.3ccbe589.js",
+    "main.js": "/animevers_x/static/js/main.dcbd20f2.js",
     "static/js/453.7a773f9b.chunk.js": "/animevers_x/static/js/453.7a773f9b.chunk.js",
     "static/media/logo.svg": "/animevers_x/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/animevers_x/index.html",
     "main.227a8ef3.css.map": "/animevers_x/static/css/main.227a8ef3.css.map",
-    "main.3ccbe589.js.map": "/animevers_x/static/js/main.3ccbe589.js.map",
+    "main.dcbd20f2.js.map": "/animevers_x/static/js/main.dcbd20f2.js.map",
     "453.7a773f9b.chunk.js.map": "/animevers_x/static/js/453.7a773f9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.227a8ef3.css",
-    "static/js/main.3ccbe589.js"
+    "static/js/main.dcbd20f2.js"
   ]
 }
