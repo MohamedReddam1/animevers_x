@@ -1,0 +1,35 @@
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+/* Custom Swiper navigation styles */
+.swiper-button-prev,
+.swiper-button-next {
+  @apply text-[#c72ec7] bg-opacity-60 rounded-full p-2 hover:bg-opacity-80 transition-all duration-300;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 2em; /* Custom size for the arrows */
+}
+
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
