@@ -70,7 +70,7 @@ export default function Popular() {
                         <IoBookmark className="" />
                       </button>
                       {/* Watch Now Button */}
-                      <Link to={`/anime/${anime.mal_id}`} className="bg-white text-black py-2 px-5 rounded-md hover:bg-black hover:text-white text-center transition-transform transform hover:scale-110">
+                      <Link to={`/animevers_x/anime/${anime.mal_id}`} className="bg-white text-black py-2 px-5 rounded-md hover:bg-black hover:text-white text-center transition-transform transform hover:scale-110">
                         <FaPlay className="" />
                       </Link>
                     </div>

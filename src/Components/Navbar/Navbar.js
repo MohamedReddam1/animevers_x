@@ -16,10 +16,10 @@ export default function Navbar() {
             <img src="https://i.imgur.com/RG6qk7K.png" alt=""  className='w-[160px]'/>
         </div>
         <div className='flex justify-between items-center'>
-            <li className='list-none text-white mx-5 tracking-wider hover:text-[#942d94] duration-150 ease-in-out'><Link to="/">Home</Link></li>
-            <li className='list-none text-white mx-5 tracking-wider hover:text-[#942d94] duration-150 ease-in-out'><Link to="/watch">Watch</Link></li>
-            <li className='list-none text-white mx-5 tracking-wider hover:text-[#942d94] duration-150 ease-in-out'><Link to="/">About</Link></li>
-            <li className='list-none text-white mx-5 tracking-wider hover:text-[#942d94] duration-150 ease-in-out'><Link to="/">Contact</Link></li>
+            <li className='list-none text-white mx-5 tracking-wider hover:text-[#942d94] duration-150 ease-in-out'><Link to="/animevers_x/">Home</Link></li>
+            <li className='list-none text-white mx-5 tracking-wider hover:text-[#942d94] duration-150 ease-in-out'><Link to="/animevers_x/watch">Watch</Link></li>
+            <li className='list-none text-white mx-5 tracking-wider hover:text-[#942d94] duration-150 ease-in-out'><Link to="/animevers_x/">About</Link></li>
+            <li className='list-none text-white mx-5 tracking-wider hover:text-[#942d94] duration-150 ease-in-out'><Link to="/animevers_x/">Contact</Link></li>
         </div>
         {/* <div>
             <div className='flex justify-start items-center'>

@@ -122,7 +122,7 @@ const AnimeListPage = () => {
                         <FaBookmark />
                       </button>
                       <Link
-                        to={`/anime/${anime.mal_id}`}
+                        to={`/animevers_x/anime/${anime.mal_id}`}
                         className="bg-transparent border text-xl border-white text-white py-2 px-3 rounded-md hover:bg-white hover:scale-110 duration-200 ease-in-out hover:text-[#0f1120] flex items-center"
                       >
                         <FaPlay />
