@@ -12,10 +12,10 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route path="/" element={<Homepage />} />
-          <Route path="/watch" element={<Watch />} />
-          <Route path="/anime/:id" element={<AnimeDetailPage />} />
-          <Route path="/anime/:id/episodes/:episodeId" element={<EpisodeWatchPage/>} />
+          <Route path="/animevers_x/" element={<Homepage />} />
+          <Route path="/animevers_x/watch" element={<Watch />} />
+          <Route path="/animevers_x/anime/:id" element={<AnimeDetailPage />} />
+          <Route path="/animevers_x/anime/:id/episodes/:episodeId" element={<EpisodeWatchPage/>} />
           {/* 404 Not Found Route */}
           {/* <Route path="*" element={<NotFound />} /> */}
         </Routes>
